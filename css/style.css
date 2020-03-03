@@ -5,6 +5,26 @@
     border-radius: 10px;
 }
 
-.col-md-6 img{
-    width: 100%;
+.coloring{
+    color: rgb(255, 174, 0);
+}
+
+.gap{
+    margin-bottom: 20px;
+}
+.card-title{
+    text-align: center;
+}
+.middle{
+    text-align: center;
+}
+.card{
+    border: none;
+}
+.card-text{
+    text-align: center;
+    font-size: small;
+}
+.card-footer{
+    border-top: none;
 }
