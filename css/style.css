@@ -1,0 +1,10 @@
+.buy-button{
+    background-color: black;
+    padding: 5px 20px;
+    color: white;
+    border-radius: 10px;
+}
+
+.col-md-6 img{
+    width: 100%;
+}
